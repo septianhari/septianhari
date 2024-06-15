@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/sabarn0" target="blank"><img src="https://img.shields.io/twitter/follow/sabarn0?logo=twitter&style=for-the-badge" alt="sabarn0" /></a> </p>
 
-- 🔭 I’m currently working on **Freelance**
+- 🔭 I’m currently working on **Laptop**
 
 - 🌱 I’m currently learning **Golang, PostgreSql**
 
