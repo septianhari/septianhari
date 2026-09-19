@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **Web Developer**
 
-- 👨‍💻 All of my projects are available at [https://septianhari.github.io/portofolio/](https://barnoski.my.id/)
+- 👨‍💻 All of my projects are available at [[https://septianhari.github.io/portofolio/](https://barnoski.my.id/)]
 
 - 📝 I regularly write articles on [https://septianharisabarno.blogspot.com](https://septianharisabarno.blogspot.com)
 
