@@ -23,7 +23,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/septian-h-s/](https://www.linkedin.com/in/septian-h-s/)
 
-- ⚡ Fun fact ** Cool lee qiya one**
+- ⚡ Fun fact **Cool lee qiya one**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
